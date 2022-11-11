@@ -1,5 +1,11 @@
-.sec_header {
+.cycle_def h3.sec_header {
     /*font-style: oblique;*/
-    color: cyan;
-    border: 10px;
+    color: rgb(50, 103, 138);
+        background-color: black;
+        border-top: 20px;
+        border-bottom: 20px;
+        border-left: 20px;
+        border-right: 20px;
+        border-style: solid;
+        border-color: black;
 }
